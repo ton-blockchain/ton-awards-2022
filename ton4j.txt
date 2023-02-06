@@ -1,0 +1,9 @@
+1. ton4j
+2. Java/Multiplatform libraries for interacting with TON blockchain. The strong side of the library is the examples of almost all use cases.
+3. Well covered by unit and integration tests however lacks external recognition. There are still couple of non-critical bugs. Used by Ammer-Wallet.
+4. https://github.com/neodiX42/ton4j
+5. neodiX42 (@neodix)
+6. 9 months (since May 2022)
+7. TON Storage support, probably also support of all major TON network protocols, such as: ADNL, RLDP, DHT, DNS. Write ton4j how-to guides on various TON lessons websites. Support, maintenance and integration of the latest TON features.
+8. It would be great to be listed on ton.org, as well as to be part of ton.org group in maven repository.
+9. -

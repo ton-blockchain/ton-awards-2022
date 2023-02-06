@@ -1,0 +1,9 @@
+1. MyLocalTon
+2. Multiplatform wrapper of TON validator. Java GUI application allows user to run up to 7 validators locally on his PC. Contains blocks', transactions' and messages' explorer with the search engine. Creation of various wallets, ton nodes with a single click. Visual representation of TON elections.
+3. Well tested on multiple platforms, proved by time and TON community.
+4. https://github.com/neodiX42/MyLocalTon
+5. neodiX42 (@neodix), fabiomqs
+6. 14 months (since Dec 2021)
+7. Improve UI, add more functionality (create hardfork, add more wallet types), create install files per platform (in progress). Support more operating systems. Further support and maintenance.
+8. -
+9. -
