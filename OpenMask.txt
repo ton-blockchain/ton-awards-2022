@@ -2,7 +2,7 @@
 2. MetaMask analog, a Browser Extension Wallet with features: Multi-accounts, Multi-network, NFT, Jettons, DNS, dApp auth, Proxy, TC 2.0, Biometric authentication, Developers Documentation.
 3. The first release in September 2022, right now ~350 weekly active users.
 4. https://github.com/OpenProduct/openmask-extension
-5. https://github.com/KuznetsovNikita
+5. @KuznetsovNikita
 6. 10 week + maintains till now
 7. Planning to maintains and support modern features in 2023.
 8. -
