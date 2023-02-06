@@ -1,0 +1,9 @@
+WebDeployer
+Web page for deploying contracts quickly with QR codes. Requires no authentication.
+Page is working, both for large and small BOC-s. The only bug, found by @Gusarich, was eliminated. Published at https://ton.app/utilities/ratingers-deployer
+https://github.com/ProgramCrafter/ton-qr-deployer/
+@ProgramCrafter
+8 hours.
+Standard contract codes, deploying into non-basechain, cells visual constructor.
+Get a designer for a better logo and memorable NFT style. (Memorable NFTs are given for finding bugs.)
+No donations ever received.
