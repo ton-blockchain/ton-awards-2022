@@ -2,8 +2,8 @@
 2. dApp to interact with Multi-Signature wallets on TON
 3. All functional is complete (except for ton connnect 2.0 support). It was manually tested (not fully)
 4. https://github.com/Gusarich/multisig-dapp
-5. Daniil Sedov (@Gusarich) and Michael Andreev (@Miandic)
+5. Daniil Sedov (@Gusarich, js) and Michael Andreev (@Miandic, interface)
 6. Several weeks, but it could have been done a lot faster (we weren't experienced in TON at the start of development)
 7. Add ton connect 2.0 as soon as they allow signing of custom data; rework some parts of code; use our other development https://github.com/puppycats/multisig instead of raw work with cells
-8. It would be cool if a TF designer would make a nice design for us, and we would implement it
+8. It would be cool if a TF designer make a nice design for us, so that we'll implement it
 9. 550 TON from TF
