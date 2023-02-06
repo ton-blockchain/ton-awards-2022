@@ -1,0 +1,11 @@
+1. tonutils-go
+2. Library for work with TON in Golang, focused to be user-friendly, performant and functional in the same time.
+   Implemented interraction with blockchain and all major TON network protocols, such as: ADNL (TCP+UDP), RLDP, DHT, DNS, RLDP-HTTP, Proxy.
+3. Library is used by Foxtails and many other people according to github analytics; Core functionality of the library related to blockchain is stable and well tested. 
+   New functionality based on ADNL UDP is well tested too, but still require some more time and usages to find possible minor issues.
+4. https://github.com/xssnick/tonutils-go
+5. Oleg Baranov and community contributors.
+6. In active development since April 2022.
+7. Nearest: Merkle proofs, Storage, Overlays+Broadcast. Later: Implemented all TON technologies and methods to compose full validator node are available.
+8. -
+9. Received 10000 TON from ton.org/grants in Jul, 2022 and some donations on early stages from the community.

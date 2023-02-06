@@ -1,0 +1,9 @@
+1. Tonutils Proxy
+2. Cross-playform user-friendly proxy software, implemented natively in Golang, that allows to access TON Sites with end2end encryption without specific knowledge, just run and click 1 button.
+3. It is usable and tested, but since it is a new project, some small issues may happen, we fixing them ASAP.
+4. https://github.com/xssnick/Tonutils-Proxy 
+5. Oleg Baranov and team.
+6. Based on tonutils-go, proxy and related things active development took 2 months and we will continue to introduce new features. 
+7. Nearest: TON Storage sites support, RLDP2 support, Local HTTPS simulation to bypass browser policies for .ton sites.
+8. Will be good to let the people know about this project, for example will be good to get some mentions in official TON channels and at docs.
+9. -
