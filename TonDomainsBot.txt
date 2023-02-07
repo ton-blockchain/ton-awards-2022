@@ -5,7 +5,8 @@
 5. Those guys:
 5.1 [@vplotvion](https://github.com/vplotvinov) - Web developer;
 5.2 [@dimovmo](https://github.com/dimovmo) - fullstack web3 engineer, believes in people and tech;
-5.3 [@chakzefir](https://github.com/chakzefir) - web anarchist.
+5.3 [@aplotvinov](https://github.com/aplotvinov) - intern;
+5.4 [@chakzefir](https://github.com/chakzefir) - web anarchist.
 6. 13 days.
 7. Support all available wallets + tonconnect, make lean interface, add ability to associate domain with wallet.
 8. 🤔💭
