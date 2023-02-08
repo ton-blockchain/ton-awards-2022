@@ -1,0 +1,9 @@
+1. XTON crypto wallet
+2. TON crypto wallet web-extensions (non-custodian) for all popular browsers with supporting multiaccounts, jettons/nft, Web3 (extended version of TON wallet API https://github.com/ton-blockchain/TEPs/pull/105/files), etc.
+3. Released at December 2022, now approximately 300 weekly users in Edge/Chrome web browsers.
+4. https://github.com/xtonwallet/web-extension
+5. @xtonwallet - we are decentralized team.
+6. 6 months.
+7. We plan to support ADNL connection, finish with mobile applications with embedded browser and supporting TON connect 2.0 in few future months.
+8. It would be great to have additional promoting for XTON crypto wallet.
+9. We didn't receive grants or finance supporting.
