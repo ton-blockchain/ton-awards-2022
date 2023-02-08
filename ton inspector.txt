@@ -1,0 +1,9 @@
+1. Ton inspector
+2. Ton inspector is a tool that contains useful functions to proceed ton payments
+3. The project is fully functional and i intend to add new functions in the future 
+4. https://github.com/kirillmelcin/ton-inspector
+5. Kirill Melcin. I've already made dApp for ton: https://kirillmelcin.ru/archived/ton-spy/ and i'm currently developing a big commercial project in which i used Ton inspector (dm me for more info)
+6. I didn't spend a lot of time developing the Ton inspector because i used the code i wrote for my commercial project
+7. About future plans: i would like to get feedback from other developers to decide what functionality i should add next. For example, it might be ready-to-use components for vue and react.
+8. None
+9. I haven't received any grants/awards yet
