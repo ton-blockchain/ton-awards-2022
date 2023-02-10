@@ -4,6 +4,6 @@
 4. https://github.com/neodiX42/MyLocalTon
 5. neodiX42 (@neodix), fabiomqs
 6. 14 months (since Dec 2021)
-7. Improve UI, add more functionality (create hardfork, add more wallet types), create install files per platform (in progress). Support more operating systems. Further support and maintenance.
+7. Improve UI, add more functionality (create hardfork, add more wallet types), create install files per platform (in progress). Direct access to TON rocksDB. Support more operating systems. Further support and maintenance.
 8. -
 9. -
