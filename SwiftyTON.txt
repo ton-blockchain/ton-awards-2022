@@ -1,0 +1,9 @@
+1. SwiftyTON - modern Swift wrapper around C++ tonlib
+2. Written wit new Swift Concurrency manner around Objective-C wrapper that wraps C++ tonlib API.
+3. Used within JUSTON (https://github.com/labraburn/juston-ios) project. 
+4. https://github.com/labraburn/SwiftyTON
+5. https://github.com/oboupo
+6. ~3-4 months.
+7. Bugfixes.
+8. -
+9. -
