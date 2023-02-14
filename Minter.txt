@@ -1,0 +1,14 @@
+1. TON Minter.
+2. An open-source tool to launch jettons on the TON network.
+3. https://minter.ton.org/. Deployed 1K+ Jettons and was added to the TON Foundation's official domain.
+4. https://github.com/ton-blockchain/minter
+5. Main contributor (both Orbs team members): 
+https://github.com/shaharyakir - Official Hack-a-TONx technical judge, Hack-a-TONx Prague judge, contributor to other projects on TON such as TON Access and TON Verifier.
+https://github.com/denis-orbs - TON Frontend developer (Contributor to TON.vote and TonSwap).
+6. Approximately 3 weeks
+7. Plans
+Maintain support to jetton standard updates
+Add ability to recover previously minted jettons and track their balance
+UX improvements (successful mint confirmation dialog)
+8. Happy to contribute this tool for the use of the TON community!
+9. None
