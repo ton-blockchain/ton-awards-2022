@@ -1,0 +1,9 @@
+1. ton-contract-executor
+2. Library that enables TVM execution in JavaScript envorenment, this allows to run contract's locally and allows to write test's for them.
+3. It's stable and widely used in many TON project's including GetGems, STON.fi, TonHub, etc
+4. https://github.com/ton-community/ton-contract-executor
+5. Original author: @Naltox also @krigga is a contributor
+6. ~3 week's for first release version, but we still deliver updates 
+7. http://github.com/ton-community/sandbox is the continuation of this idea
+8. none
+9. none
