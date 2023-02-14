@@ -1,0 +1,9 @@
+1. TON CON
+2. International conference The Open Network with open source. An active introduction for new TON explorers, a global family reunion with those people from our ecosystem and a source of energy and creativity for all.
+3. Conference has ben since November 2022. THe audience is about 1500 uniq users.
+4. [Github](https://github.com/DAO-TON-CON) / [Source Code](https://github.com/DAO-TON-CON/boilerpoint/blob/main/TONCON.metaspace) Metaspace / [NFT Collection](https://github.com/DAO-TON-CON/nft) CC0 TON CON / [Press release](https://docs.google.com/document/d/1-gKrL6166aIyDr7ByOCuH-AaOIwY-Vfb2XRZSwSuSds/edit)
+5. [Roman Inozemtsev](https://github.com/inozemtsev-roman), [iorii9](https://github.com/orgs/DAO-TON-CON/people/iorii9), [Oksana Zlobina](https://github.com/orgs/DAO-TON-CON/people/ZlobinaOksana)
+6. Q3-Q4 2022.
+7. TON CON is a collection of unique events in The Open Network. This means that anyone can create their own @toncon event, for example using event parameters https://github.com/DAO-TON-CON/events#parameters and Creative Commons Zero v1.0 Universal License.
+8. The presence of 4 different jetton in the TON COM economy will allow the introduction of various mechanisms to stimulate active users. Various combinations of jetton combinations can be developed in a certain amount, which will allow their owner to extract additional benefits. We are at the beginning of our research and development on the decentralization of decision-making in the development of the DAO.
+9. None.  
