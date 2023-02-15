@@ -1,0 +1,15 @@
+
+1. TON Access
+2. A decentralized RPC provider created specifically for TON dapps making HTTP queries to blockchain state from the browser.
+3. https://www.orbs.com/ton-access/. TON Access is in beta, with public launch planned in Feb 2023. Over 1.8m requests per day from different geos, including well known TON dapps such as Megaton Finance, Minter, TonSwap, TonWhales, Verifier, and more…
+4. https://github.com/orbs-network/ton-access
+5. Main contributors - Orbs team members  https://github.com/talkol: Public ambassador of the TON blockchain, and https://github.com/uv-orbs backend and web3 dev.
+6. 5 month.
+7. Future plans include:
+ADNL-websocket proxy support
+Per-protocol healthcheck
+Dynamic add/remove Access nodes
+Dynamic per protocol config updates
+8. TON-Access was created after learning from some of the failings of Ethereum which heavily relies on centralized rpc providers such as Infura. Decentralized projects such as pokt.network were created in the Ethereum ecosystem to overcome this problem. TON-Access follows a similar design. 
+We think this is a crucial piece of infrastructure to any ecosystem and would love for the TON foundation to add TON Access as an official TON tool for TON devs.
+9. None
