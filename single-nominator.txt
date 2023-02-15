@@ -1,0 +1,12 @@
+1. TON Single Nominator
+2. A new TON smart contract that enables secure validation for TON blockchain via an air gapped cold wallet.
+3. The Single Nominator smart contract has undergone a thorough security audit by TON’s most reputable auditor Certik. It is implemented and maintained by the Orbs Network.
+4. https://github.com/orbs-network/single-nominator
+5. Main contributors (Orbs team members): 
+https://github.com/talkol: Public ambassador of the TON blockchain.
+https://github.com/amihaz: FunC dev and contributor to TON.vote
+https://github.com/doronaviguy: FunC dev and contributor to TonSwap
+6. 10 weeks.
+7. Single Nominator is intended to be the go-to solution for TON validators that have enough stake to validate by themselves.
+8. Would be great to get exposure for this tool from the TON foundation!
+9. None
