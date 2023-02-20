@@ -1,0 +1,9 @@
+1. ton-k8s
+2. Docker images, python mini-lib, helm chart for comfortable TON infrastructure
+3. Docker-compose and kubernetes helm chart was used by several teams. Docker-compose allow you to start own TON network
+4. https://github.com/disintar/ton-k8s
+5. Disintar Team (@tvorogme, @acadabus, @grillow)
+6. 1 month
+7. Need to be rewrited, add dton.io (if it will be opensoursed), add TON Storage gateway 
+8. -
+9. -
