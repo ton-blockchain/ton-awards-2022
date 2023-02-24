@@ -1,0 +1,9 @@
+1. Democratization of staking
+2. First and the only scalable nominators contract that can be used by anyone with at least 50 TON.
+3. Launched and stable.
+4. https://github.com/tonwhales/ton-nominators
+5. @ex3ndr
+6. 6 months
+7. Improve scalability
+8. None   
+9. None
