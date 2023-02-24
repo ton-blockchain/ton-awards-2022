@@ -1,0 +1,9 @@
+1. TON typescript libraries
+2. Ton libraries that are in use by 60%+ of dapps.
+3. Thoroughlty tested and stable.
+4. https://github.com/ton-core
+5. @ex3ndr and contributors
+6. 1.5 years
+7. Depends on community feedback
+8. None
+9. None
