@@ -1,0 +1,9 @@
+1. WTON
+2. First Wrapped TONCOIN Jetton in TON Network. 
+3. Used in different DeFi projects, like STON.fi.
+4. https://github.com/TonoxDeFi/WTON
+5. @dariolol
+6. Two weeks
+7. Legacy support for it
+8. -
+9. For this project, none
