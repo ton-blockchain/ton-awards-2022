@@ -1,0 +1,13 @@
+1. TON Domains Bot
+2. Will help you win the auction and become the owner of the TON domain without sitting up all night bidding. Also the first user-friendly interface for TON DNS in Telegram.
+3. MVP, but stable enough to proceed half a million dollars and buy hundred domains.
+4. https://github.com/Tonstarter/ton-domains-frontend and https://github.com/Tonstarter/ton-domains-backend
+5. Those guys:
+5.1 [@vplotvion](https://github.com/vplotvinov) - Web developer;
+5.2 [@dimovmo](https://github.com/dimovmo) - fullstack web3 engineer, believes in people and tech;
+5.3 [@aplotvinov](https://github.com/aplotvinov) - intern;
+5.4 [@chakzefir](https://github.com/chakzefir) - web anarchist.
+6. 13 days.
+7. Support all available wallets + tonconnect, make lean interface, add ability to associate domain with wallet.
+8. 🤔💭
+9. Nothing.
