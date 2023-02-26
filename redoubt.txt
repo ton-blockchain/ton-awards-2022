@@ -1,0 +1,10 @@
+1. re:doubt
+2. A powerful tool for TON blockchain research, complete with all the tools you need to discover, explore, and visualize
+ vast amounts of blockchain data. <Dune Analytics for TON>
+3. Jettons monitoring are ready (https://api.redoubt.online/v1/jettons/top). UI and API description in progress.
+4. https://github.com/re-doubt, https://www.redoubt.online
+5. @maksymds and @shuva10v.
+6. 6 months.
+7. We plan to implement timely and relevant alerts about the security and health of smart contracts.
+8. It would be great to publish a link to TON Community Chat about project.
+9. Received 5000 USD from ton.org/grants in Jul, 2002.
