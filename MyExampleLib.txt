@@ -1,9 +1,9 @@
-1. MyExampleLib
-2. Library for work with TON in Pascal language, made work with wallets, jettons, NFT, payment channels.
-3. Library is used in pascal.ton service and tested on millions of users; We are not very sure about the implementation of payment channels.
-4. https://github.com/mytonlib
-5. @Alice and @Bob, formerly involved in astrophysics.
-6. 3 months.
-7. We plan to support ADNL connection in 2033.
-8. It would be great to publish a link to MyExampleLib in ton.org/docs page "Libraries".
-9. Received 5000 TON from ton.org/grants in Nov, 2002.
+1. NFT Standatd in Tact
+2. Using Tact language implement with NFT standard! 
+3. The repo is using Tact to implement.
+4. https://github.com/howardpen9/nft-standard-template
+5. @howardpen9
+6. 1.5 months since the first day learning the Tact language
+7. I already upload the data.
+8. It would be great if TF can support me.
+9. Never receive any TON.
