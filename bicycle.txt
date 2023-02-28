@@ -1,0 +1,9 @@
+1. Bicycle
+2. Microservice for accepting payments (TONs and Jettons) and making withdrawals in TON blockchain.
+3. The planned functionality was implemented, a test utility was created, automatic and manual tests were carried out. The stage of collecting feedback from users now. Integration issues are discussed.
+4. https://github.com/gobicycle/bicycle
+5. @captonom (https://github.com/gobicycle)
+6. 6 months of part-time development. Development continues.
+7. DNS support, documentation improvements, integration support, stability and security improvements, maybe invoices mechanism implementation.
+8. -
+9. personal grant
