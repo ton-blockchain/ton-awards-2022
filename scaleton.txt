@@ -1,7 +1,7 @@
 1. Scaleton
 2. The very first explorer for jettons.
 3. Explorer has been used by many users both for building dApps/tokens and for managing own assets using wallets without jettons support.
-4. https://github.com/scaleton/scaleton-co
+4. https://github.com/scaleton-co/scaleton
 5. @NickNekilov
 6. 3 weeks
 7. We're going to build an explorer oriented to dApp developers.
