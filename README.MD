@@ -1,4 +1,4 @@
-> ⚠️ Hurry up! Submissions for the **TON Awards 2022** will close on **March 1, 12:00 UTC**.
+> ⚠️ The submission period is over. Give us some time to review your requests.
 
 ```
  **********   *******   ****     **           **     **       **     **     *******   *******    ********        ****   ****   ****   **** 
