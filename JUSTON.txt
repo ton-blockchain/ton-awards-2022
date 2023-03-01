@@ -1,0 +1,9 @@
+1. JUSTON - non custodial wallet for TON network
+2. Features: multi-accounts, mainnet & testnet support, TON DNS support (browser & wallet routing), dApp Authentication, TON Proxy, Biometric Authentication.
+3. https://apps.apple.com/app/id1629214799
+4. https://github.com/labraburn/juston-ios
+5. https://github.com/oboupo.
+6. ~3-4 months.
+7. Bugfixes and long-term support.
+8. -
+9. -
