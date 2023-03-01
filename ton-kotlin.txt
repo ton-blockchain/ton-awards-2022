@@ -1,0 +1,9 @@
+1. ton-kotlin
+2. Kotlin/Multiplatform SDK for The Open Network
+3. Library is used by https://tonplay.io/ https://tegro.finance/ https://libermall.com/
+4. https://github.com/andreypfau/ton-kotlin
+5. The library would not have been finalized to the production ready state without contribution https://github.com/AntonMeep and https://github.com/90K2
+6. 1 year (SINCE Jan 17, 2022)
+7. Full TVM implementation (Under heavy work), transaction emulator for Intellij Debugging & Fee calculation, Tl-B Dynamic (de)serializer (runtime schema parsing & (de)serialization), Blockchain Lite Node (for indexing, etc.)
+8. I want to share the rewards with the most active contributors
+9. Got some rewards from @rulon early last year
