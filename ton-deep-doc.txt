@@ -1,0 +1,10 @@
+1. Ton Deep Documentation
+2. Documentation with examples about TON internals and protocols, based on my research during tonutils-go development.
+3. Many things are documented: BoC, Merkle Proofs, ADNL (TCP+UDP), DHT, RLDP and other protocols. Still many things can be added there, 
+   but it is already very usefull, especially for those who wants to develop their own libraries or low level products in TON.
+4. https://github.com/xssnick/ton-deep-doc
+5. Oleg Baranov.
+6. In active development since April 2022.
+7. Nearest: English translation and integration to ton.org/docs, Overlay broadcasts, subscribing on new blocks. Later: all TON concepts well documented.
+8. Will be good if you could read and check correctness of the information, since it is based on my own research, some articles may lack of information you may consider as urgent.  
+9. Received 7000 and 10000 from TON Foundation member.
