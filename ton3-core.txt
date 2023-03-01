@@ -1,0 +1,9 @@
+1. ton3-core
+2. TON Blockchain low-level API implementation written in TypeScript
+3. Production ready, 90% test coverage, well-documented, used by Scaleton, DeDust and other "mainnet" projects
+4. https://github.com/tonkite/ton3-core
+5. tjifyodor aka @daisy
+6. April 2022 to present
+7. Build usefull modules for "ton3" ecosystem, more high-level tools for blockchain interaction, tools for working with known protocols
+8. -
+9. Donation from @tolyayanot
