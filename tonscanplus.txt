@@ -1,0 +1,9 @@
+1. Tonscan+
+2. Google Chrome extension dedicated to providing a better user experience on tonscan.org. Users can add custom names to TON adresses locally as well as contribute to user-driven adress database.
+3. Works well. According to Google Chrome Store, it was downloaded by more than 50 users!
+4. https://github.com/menschee/tonscanplus | https://chrome.google.com/webstore/detail/tonscan%20/egonpnmjojlaogggbjklkbkflgipljpd
+5. @menschee, co-founder at The Daily TON and The Daily TON RUS
+6. 1 week
+7. I plan to continue expanding the database and roll out a bunch of cool features, such as filtering by the sum of Toncoin and more advanced import and export functions.
+8. Make TON Ecosystem more transparent.
+9. Never received any grants.
