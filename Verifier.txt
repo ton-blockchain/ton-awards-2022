@@ -1,0 +1,11 @@
+1. TON Verifier
+2. An open-source application to publish verified source code for on-chain contracts on the TON chain.
+3. https://verifier.ton.org/. TON Verifier has been added as an official TON tool with over 110 verified contracts on TON, allowing a level of due diligence for the network that wasn’t possible before. 
+4. https://github.com/ton-community/contract-verifier
+5. Main contributors (both Orbs team members): 
+https://github.com/shaharyakir - Official Hack-a-TONx technical judge, Hack-a-TONx Prague judge, contributor to other projects on TON such as TON Access and TON Minter.
+https://github.com/talkol: Public ambassador of the TON blockchain.
+6. 10 weeks
+7. Integrations into major TON explorers are currently underway and now are being further extended to Getters. The SDK in ton-community Github allows any TON explorer to embed Verifier into their front end and now utilize the getting functionality. 
+8. Verified source code is an important aspect of smart contracts, as it provides transparency and allows users to assess the integrity and security of a contract. It would be cool to add Verifier to official TON tutorials for dapp developers.
+9. None
