@@ -1,0 +1,9 @@
+1. MyTonWallet.
+2. The most feature-rich web wallet and browser extension for TON Network – with support of multi-accounts, tokens (jettons), NFT, TON DNS, TON Sites, TON Proxy, and TON Magic.
+3. The project has been in production since August 2022. The audience is about 4,5K weekly users. The current stable version is 1.11. 
+4. https://github.com/mytonwalletorg/mytonwallet
+5. @unexpectedusername. Someone unknown and mysterious. 
+6. Several talented people have been actively working on it since the summer of 2022. Recently, the team has continued on a full-time basis.
+7. Replace that MetaMask guy with a proper wallet. Based on TON, obviously.
+8. May the truth, privacy, and freedom prosper!
+9. The love from our users is our best award.
