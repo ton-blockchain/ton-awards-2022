@@ -1,0 +1,9 @@
+1. Python TON Connect library.
+2. A library that implements TON Connect (v1) in Python.
+3. The library works as intended. It was originally developed for my personal projects and wasn't widely used, however, some people found it useful and applied it to their needs.
+4. https://github.com/stspbu/ton-connect
+5. Viacheslav Bushev (@vbushev).
+6. 1-2 weeks.
+7. TON Connect v1 has recently been deprecated, so the library should be upgraded to v2.
+8. It would be great to fork / move the library in Tonkeeper repository, near typescript implementation: https://github.com/tonkeeper/ton-connect.
+9. Nothing received yet.
