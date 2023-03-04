@@ -1,0 +1,9 @@
+1. Rift Framework
+2. Rift allows developers to develop, test and deploy TON contracts with pure Python
+3. Project includes many test cases, Jetton standard is implemented as a showcase and developers are able to work with it. Publicly announced on 14 Feb 2023.
+4. https://github.com/sky-ring/rift
+5. @AminRezaei0x443, Blockchain Researcher with ML and Software Engineering background.
+6. 7 months. (The project was under active development for 7 months, but if the fulltime effort is meant, it would be about 3 months).
+7. Sandbox/Full emulation support in tests, New abstraction over contract messaging and actor model, Direct compilation to TVM assmebly, Making binaries more portable (WASM), Generating web clients
+8. We're working on preparing content for blog and docs announcement and would appreciate any help.
+9. Received $16,000 (14,621 TON) from ton.org/grants in 2 parts, last part of second milestone still remains. (Total Grant: $22,000)

@@ -1,0 +1,9 @@
+1. TONHouse
+2. TON Network Status, Monitor The Open Network`s Status Easily!
+3. Project is up and works (https://tonhouse.skyring.io)
+4. https://github.com/sky-ring/ton-house (Main Repo), https://github.com/sky-ring/ton-house-api (Backend)
+5. @shayan-shojaei, Fullstack Software Engineer - @AminRezaei0x443, Blockchain Researcher with ML and Software Engineering background.
+6. 6 months. (The project was under active development for 6 months, but if the fulltime effort is meant, it would be about 2-3 months).
+7. Massive UI/UX overhaul and customer-centric design, Supply Stats, Blockchain Indexing
+8. We would appreciate and assist anywhere needed to make TONHouse the main stats portal of TON.
+9. Received 3000 TON from TON Society Footsteps.
