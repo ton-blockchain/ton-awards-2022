@@ -1,0 +1,9 @@
+1. TON NFT License
+2. Open Source license agreement for the ownership of NFT in The Open Network
+3. The use of metadata signatures in images/videos/3D content of NFT Collections allows you to protect the copyright of the content creator for the Web3 Metaverse era. 
+4. https://github.com/mir-one/ton-nft-license
+5. [Roman Inozemtsev](https://github.com/inozemtsev-roman)
+6. Q1-Q3 2022.
+7. Framework / Constructor License. NFT Deployer with taxonomy License. License Generator NFT Tool for TON Metaspace.
+8. The community needs to be explained. that they can create their own NFT Licenses themselves. And we provide the tools for this. Each file contains <metadata> with two types of licenses: copyright and creative remixes by attribution CCO.   
+9. None. 
