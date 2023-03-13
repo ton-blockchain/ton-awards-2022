@@ -1,0 +1,9 @@
+1. Blueprint
+2. A development environment for writing, testing, and deploying smart contracts.
+3. Ready to use. API should be mostly stable, but CLI could change, and in some places by a lot.
+4. https://github.com/ton-community/blueprint
+5. @krigga, some contributions by @talkol and @Naltox
+6. 3 weeks.
+7. We might add other deployment methods (wallets) apart from the existing ones. Some features could be made more convenient.
+8. None.
+9. None.
