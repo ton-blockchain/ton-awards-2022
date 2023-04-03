@@ -6,7 +6,7 @@
     </picture>
   </a>
   <h3> <img alt="TON logo" src="https://ton.org/download/ton_symbol.svg" height="20px">🎊 🎉 The celebratory ceremony and awarding will take place on April 9th. 🎊 🎉<img alt="TON logo" src="https://ton.org/download/ton_symbol.svg" height="20px"></h3>
-  <h4>Follow the details in the <a href="t.me/tonblockchain">@tonblockchain</a> channel</h4>
+  <h4>Follow the details in the <a href="https://t.me/tonblockchain">@tonblockchain</a> channel</h4>
   <hr/>
 </div>
 
