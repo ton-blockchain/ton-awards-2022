@@ -1,0 +1,9 @@
+1. NFT Standatd in Tact
+2. Using Tact language implement with NFT standard! 
+3. The repo is using Tact to implement.
+4. https://github.com/howardpen9/nft-standard-template
+5. @howardpen9
+6. 1.5 months since the first day learning the Tact language
+7. I already upload the data.
+8. It would be great if TF can support me.
+9. Never receive any TON.
