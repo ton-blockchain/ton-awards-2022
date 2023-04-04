@@ -1,0 +1,9 @@
+1. toncli
+2. The Open Network cross-platform smart contract command line interface.
+3. CLI is used by many teams, several tutorials have been created by community. 
+4. https://github.com/disintar/toncli
+5. Disintar Team (@tvorogme, @acadabus, @grillow) and community contributors (@Trinketer22, @miroslav-tashonov, @bminaiev)
+6. 1 year (SINCE Jan 30, 2022)
+7. Current version is a good MVP that been used by many teams, but for future versions we thinking to rewrite this MVP on C++ to use core TON code. We already created many PRs to main monorepo with cool features, but maybe we want to completly rewrite toncli for better features. 
+8. -
+9. -
