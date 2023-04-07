@@ -1,0 +1,9 @@
+1. TONalytics
+2. TONalytica is a data exploration and visualization tool that allows users to connect to various data sources based on TON blockchain data (Native TON, Jettons, NFTs, DEXes data, TVL etc..), query them using SQL, and create visualizations and dashboards
+3. In production, ready to use. https://tonalytica.redoubt.online/
+4. https://github.com/re-doubt
+5. @maksymds, @shuva10v
+6. 3 months.
+7. Expanded databases, adding new data sources, more snippets. Roadmap here: https://api.redoubt.online/docs
+8. It would be great to publish a link to TONalytics in ton.org/docs page "Libraries".
+9. Received 2165 TON as winner at Dorahack Hack-a-TONx.
