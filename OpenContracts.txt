@@ -1,0 +1,9 @@
+1. Open Contracts
+2. A collection of open source, standalone FunC contracts/snippets for the TON blockchain.
+3. Library used in different DeFi projects (disintar's toncli, STON.fi DEX, etc)
+4. https://github.com/TonoxDeFi/open-contracts
+5. @dariolol main contributor, other contributors in graphs/contributors page
+6. 1 month, ongoing
+7. Support and improve library of contracts, add new contracts, add new features to existing contracts, add new tests, add new documentation, add new examples, plan to add a FunC package manager
+8. - 
+9. No grant for this project
