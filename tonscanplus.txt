@@ -7,3 +7,5 @@
 7. I plan to continue expanding the database and roll out a bunch of cool features, such as filtering by the sum of Toncoin and more advanced import and export functions.
 8. Make TON Ecosystem more transparent.
 9. Never received any grants.
+
+Address: EQCM2ReRAEkCGaAM33ZUx-_vAj0qPgI5TeBQtIp1tjjFe1aa
