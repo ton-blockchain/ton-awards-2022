@@ -1,3 +1,15 @@
+<div align="center">
+  <a href="https://ton.org">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://ton.org/download/ton_logo_dark_background.svg">
+      <img alt="TON logo" src="https://ton.org/download/ton_logo_light_background.svg">
+    </picture>
+  </a>
+  <h3> <img alt="TON logo" src="https://ton.org/download/ton_symbol.svg" height="20px">🎊 🎉 The celebratory ceremony and awarding will take place on April 9th. 🎊 🎉<img alt="TON logo" src="https://ton.org/download/ton_symbol.svg" height="20px"></h3>
+  <h4>Follow the details in the <a href="https://t.me/tonblockchain">@tonblockchain</a> channel</h4>
+  <hr/>
+</div>
+
 ```
  **********   *******   ****     **           **     **       **     **     *******   *******    ********        ****   ****   ****   **** 
 /////**///   **/////** /**/**   /**          ****   /**      /**    ****   /**////** /**////**  **//////        */// * *///** */// * */// *
