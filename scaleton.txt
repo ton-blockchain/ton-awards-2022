@@ -7,3 +7,5 @@
 7. We're going to build an explorer oriented to dApp developers.
 8. none
 9. Some donations from @EmelyanenkoK
+
+Wallet: EQDz0wQL6EEdgbPkFgS7nNmywzr468AvgLyhH7PIMALxPB6G
