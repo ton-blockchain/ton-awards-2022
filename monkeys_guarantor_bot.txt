@@ -1,0 +1,9 @@
+1. monkeys_guarantor_bot
+2. Python Telegram bot (t.me/monkeys_guarantor_bot) for P2P deals and auctions for NFT on TON blockchain. It helps to decrease fraud and risks for users when they want to sell NFT without commissions via P2P deals. Also it helps to provide NFT auctions.
+3. The project works about 8 months. Tested on hundreds users. Works fine.
+4. https://github.com/dkorobeynikov2022/dkor2022
+5. Dmitry Korobeynikov (@dkor2022)
+6. 5 weeks
+7. We plan to add NFT swap functionality (any amount NFTs to any amount another NFTs)
+8. No
+9. Received 400 TON from Animals Red List project in July, 2022
