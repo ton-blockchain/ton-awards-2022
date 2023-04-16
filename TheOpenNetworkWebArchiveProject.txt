@@ -1,0 +1,9 @@
+1. The Open Network Web Archive Project
+2. TON Web Archive helps people migrate their static websites to a .TON domain, which can be accessed using TON Proxies and circumvent public internet surveillance.
+3. TON Web Archive is tested on testnet and mainnet on TON Blockchain, and is ready for uploading static websites, generating storage request with a storage provider, and creating a storage contract with a storage provider. 
+4. https://0xacab.org/feliciss/tonwebarchiveproject
+5. Feliciss, non-binary and transgender.
+6. 1 month.
+7. Support registering self-custodial subdomains of webarchive.ton to host static websites; Implement serving static websites on TON Storage directly without setting rldp-http reverse proxy. 
+8. Offering an opportunity to develop future-proofing projects and technologies.
+9. None.
