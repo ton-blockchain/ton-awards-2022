@@ -20,7 +20,7 @@ The ceremony was held online in the [dev chat](https://t.me/tondev_eng/26396).
 
 Distributed **301 920 TON (676 300 $).**
 
-The Open Nerwork is a community-driven project, each of us contributing to building a more decentralized and freer world.
+The Open Network is a community-driven project, each of us contributing to building a more decentralized and freer world.
 
 TON Foundation team is glad to work together with strong developers from all over the world and invite new developers and teams to join this collective work.
 
