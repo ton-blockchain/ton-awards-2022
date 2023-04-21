@@ -1,0 +1,9 @@
+1. adnl
+2. ADNL protocol TypeScript implementation for Node.js and Browser context
+3. Production ready, used by other libraries
+4. https://github.com/tonkite/adnl
+5. tjifyodor aka @daisy
+6. Few months
+7. Add ADNL over UDP implementation, WIP LiteClient data provider in pure TypeScript
+8. -
+9. -
