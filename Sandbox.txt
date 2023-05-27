@@ -1,0 +1,9 @@
+1. Sandbox
+2. JS library to locally emulate arbitrary TON smart contracts and whole transaction chains.
+3. Ready to use. API could change, but main parts should be stable.
+4. https://github.com/ton-community/sandbox
+5. @krigga and @Naltox, some contributions by @shaharyakir and @arterialist
+6. 2.5 months.
+7. We plan to make API easier to use in some places. We might add gas tracking and other features.
+8. None.
+9. None.
