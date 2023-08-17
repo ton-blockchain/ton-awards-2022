@@ -1,0 +1,9 @@
+1. Tact Language
+2. Next-gen language for TON smart contracts that provides 10x developer performance improvment over func and better gas efficiency
+3. Nears production release and pending security audit
+4. https://github.com/tact-lang
+5. Started by @oleganza, name by @EmelyanenkoK, resurrected by @ex3ndr
+6. 3 months
+7. We have [informal roadmap](https://github.com/tact-lang/tact/blob/main/ROADMAP.md)
+8. None
+9. None
